@@ -9,7 +9,7 @@ streamlit==1.29.0
 streamlit-webrtc==0.63.11
 
 # OpenCV for image processing
-opencv-python-headless==4.8.1.78
+opencv-python
 
 # Optional: improve exception logging for Streamlit
 rich==14.2.0
