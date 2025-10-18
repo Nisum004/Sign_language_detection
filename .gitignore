@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+
+# Optional: ignore other data you don’t want
+*.log
+.idea
+data/
